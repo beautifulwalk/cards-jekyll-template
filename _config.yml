@@ -1,17 +1,18 @@
 # Site settings
-title: Willian Justen - Desenvolvedor Front End
-description: A blog about lorem ipsum dolor sit amet
-baseurl: "/cards-jekyll-template" # the subpath of your site, e.g. /blog
-url: "https://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: '아름다운 발걸음'
+name: '아름다운 발걸음'
+description: "좋은 소식을 가져오며 평화를 공포하며 복된 좋은 소식을 가져오며 구원을 공포하며 시온을 향하여 이르기를 네 하나님이 통치하신다 하는 자의 산을 넘는 발이 어찌 그리 아름다운고 - 사 52:7"
+#baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://beautifulwalk.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+username: 박성호
+#user_description: Anon Developer at Lorem Ipsum Dolor
+email: chywoo.park@gmail.com
+#twitter_username: lorem_ipsum
+#github_username:  lorem_ipsum
+#gplus_username:  lorem_ipsum
+#disqus_username: lorem_ipsum
 
 # Build settings
 markdown: kramdown
